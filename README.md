@@ -20,6 +20,4 @@ _Metamorphoses_.
        url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Bernini%27s_Apollo_and_Daphne_statue.jpg";
        label="Apollo and Daphne";
        description="sculpture by Gian Lorenzo Bernini";
-       license="CC BY-SA 4.0&quot";>
-        
-       
+       license="CC BY-SA 4.0";>
