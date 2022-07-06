@@ -6,7 +6,7 @@ skdjf asijle slidj ellsd ednls lsdiht ;a thia tai sna thea sali ais myh adao;idl
        license=&quot;CC BY-SA 4.0&quot;
        fit=&quot;contain&quot;&gt;>
  <param ve-config
-        title="Jimsonweed _Datura stramonium_"
+        title="Jimsonweed *Datura stramonium*"
         author="Sierra Roark"
         banner="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jimsonweed_%2813496651184%29.jpg"
         layout="vertical">
