@@ -16,11 +16,13 @@ _Apollo and Daphne_ is a life-sized Baroque marble sculpture by Italian artist G
 Bernini, executed between 1622 and 1625. Housed in the Galleria Borghese in Rome, the work
 depicts the climax of the story of Apollo and Daphne (Phoebus and Daphne) in Ovid&#39;s
 _Metamorphoses_.
+
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pollaiolo%2C_Piero_del_-_Apollo_and_Daphne.jpg";
        label="Apollo and Daphne";
        description="sculpture by Gian Lorenzo Bernini";
        license="CC BY-SA 4.0";>
+
 <param ve-config
         title="apollo and daphne"
         author="Sierra"
